@@ -35,3 +35,5 @@
 ## 支持我们
 
 二维码在 `Support/support-us.png`，页面文字为“支持我们”。
+<img width="824" height="913" alt="999942AB-665A-4226-9A52-0CD7F201B94B" src="https://github.com/user-attachments/assets/bb44dff7-8434-43d1-8671-a8136fab0068" />
+
